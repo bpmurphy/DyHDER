@@ -69,7 +69,7 @@ InputsFolder = 'Inputs_LoganRiverExample';
 
 %Name of Subfolder Containing All DyHDER Functions
 % Date Type: String
-DyHDERFunctions = 'DyHDER_scripts';
+DyHDERFunctions = 'DyHDER_functions';
 
 % Names of each animal life-stage (ordered from youngest to oldest)
 % Date Type: Cell Array of Comma-Delimited Strings (no spaces)
